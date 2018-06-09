@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack",
-    "startOnly": "webpack-dev-server --open"
+    "startOnly": "webpack-dev-server --open",
+    "dev":"webpack-dev-server --save-dev --open"
   },
   "repository": {
     "type": "git",
